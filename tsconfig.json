@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "noResolve": false,
+      "resolveJsonModule": true,
+      "typeRoots": ["./node_modules/@types", "./.yarn/cache/@types"],
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true,
+      "strict": true,
+      "skipLibCheck": true,
+      "allowJs": true,
+      "jsx": "react",
+    }
+}
